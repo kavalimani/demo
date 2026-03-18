@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi i am working in master branch
+=======
+hi i am working develop branch
+>>>>>>> develop
